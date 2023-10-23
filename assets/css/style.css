@@ -87,11 +87,18 @@ nav {
 
 /* Main*/
 main{
-    background-color: lightblue;
     flex: 1 0 auto;
     margin-top: 47px;
     /* Make main take up whole page*/
 }
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image\ \(1\).webp") no-repeat center center/cover;
+}
+
 
 /*Footer*/
 #social-networks {
